@@ -2,6 +2,6 @@
 
 Trail head URLs
 
-Team lead-https://trailblazer.me/id/mei1
+Team lead-https://trailblazer.me/id/mei
 Team member 1-https://trailblazer.me/id/ddjeevaantham
 Team member 2-https://trailblazer.me/id/viveka17
