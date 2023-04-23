@@ -3,5 +3,5 @@
 Trail head URLs
 
 Team lead-https://trailblazer.me/id/mei
-Tram member 1-https://trailblazer.me/id/ddjeevaantham
+Team member 1-https://trailblazer.me/id/ddjeevaantham
 Team member 2-https://trailblazer.me/id/viveka17
